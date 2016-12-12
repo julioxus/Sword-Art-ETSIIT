@@ -1,0 +1,179 @@
+Skill 1 Ataque: Damage Formula: a.atk * 4 - b.def * 2
+Skill 3 Ataque Contínuo: Damage Formula: a.atk * 4 - b.def * 2
+Skill 4 Ataque Doble: Damage Formula: a.atk * 4 - b.def * 2
+Skill 5 Ataque Triple: Damage Formula: a.atk * 4 - b.def * 2
+Skill 8 Aliento de fuego: Damage Formula: a.atk
+Skill 9 Aliento de Hielo: Damage Formula: a.atk
+Skill 10 Aliento Eléctrico: Damage Formula: a.atk
+Skill 21 Carga: Damage Formula: a.atk * 4 - b.def * 2
+Skill 23 Vampiro: Damage Formula: a.atk * 2 - b.def
+Skill 24 Meditar: Damage Formula: b.mhp / 4
+Skill 26 Cura: Damage Formula: 250 + a.mat
+Skill 27 Cura II: Damage Formula: 1000 + a.mat * 2
+Skill 28 Cura III: Damage Formula: 4000 + a.mat * 4
+Skill 29 Sanación: Damage Formula: 250 + a.mat
+Skill 30 Sanación II: Damage Formula: 1000 + a.mat * 2
+Skill 33 Resurrección: Damage Formula: b.mhp / 10
+Skill 34 Resurrección II: Damage Formula: b.mhp / 2
+Skill 49 Drenar Vida: Damage Formula: 200 + a.mat * 4 - b.mdf * 2
+Skill 50 Drenar Mana: Damage Formula: 20 + a.mat - b.mdf * 0.5
+Skill 51 Fuego : Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 52 Fuego II: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 53 Llamarada: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 54 Llamarada II: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 55 Hielo: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 56 Hielo II: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 57 Ventisca : Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 58 Ventisca II: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 59 Trueno: Damage Formula: 200 + a.mat * 2 - b.mdf * 2
+Skill 60 Trueno II: Damage Formula: 500 + a.mat * 2 - b.mdf * 2
+Skill 61 Tormenta: Damage Formula: 200 + a.mat * 2 - b.mdf * 2
+Skill 62 Tormenta II: Damage Formula: 500 + a.mat * 2 - b.mdf * 2
+Skill 63 Agua: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 64 Oleada: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 65 Piedra: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 66 Terremoto: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 67 Viento: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 68 Tornado: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 69 Santo: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 70 Sacramento: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 71 Sombra: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 72 Oscuridad: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 73 Explosión: Damage Formula: 300 + a.mat * 2
+Skill 74 Nuclear: Damage Formula: 300 + a.mat * 2
+Skill 80 Ataque Poderoso: Damage Formula: a.atk * 5 - b.def * 2
+Skill 81 Ataque Onda: Damage Formula: a.atk * 2 - b.def * 2
+Skill 83 Danza del Berserker: Damage Formula: a.atk * 5 - b.def * 2
+Skill 84 Masacre: Damage Formula: a.atk * 12 - b.def * 6
+Skill 85 Placaje: Damage Formula: a.atk * 4 + a.def * 2 - b.def * 2
+Skill 88 Patada Sin Sombra: Damage Formula: a.atk * 5
+Skill 89 Garra del Dragón: Damage Formula: a.atk * 12
+Skill 94 Tormenta Metal: Damage Formula: a.atk * 5 - b.def * 2
+Skill 95 Hoja Silenciosa: Damage Formula: a.atk * 4 + a.mat * 3 - b.def - b.mdf
+Skill 99 Hoja Radiante: Damage Formula: a.atk * 5 + a.mat * 5 - b.def - b.mdf
+Skill 100 Penetración: Damage Formula: a.atk * 4
+Skill 103 Orgullo: Damage Formula: a.atk * 3 - b.def * 2
+Skill 104 Hoja Invisible: Damage Formula: a.atk * 4 - b.def * 2
+Skill 105 Romper Arma: Damage Formula: a.atk * 4 - b.def * 2
+Skill 106 Romper Armadura: Damage Formula: a.atk * 4 - b.def * 2
+Skill 108 Disparo Triple: Damage Formula: a.atk * 4 + a.agi * 2 - b.def * 2
+Skill 109 Mil Flechas: Damage Formula: a.atk * 3 + a.agi * 2 - b.def * 2
+Skill 113 Hoja del Asesino: Damage Formula: a.atk * 3 + a.luk * 4 - b.def * 2
+Skill 114 Danza Mortal: Damage Formula: a.atk * 2 + a.luk * 4 - b.def * 2
+Skill 117 Ira de Dios: Damage Formula: a.mat * 5 - b.mdf
+Skill 122 Torrente Mágico: Damage Formula: b.mmp * 0.5
+Skill 128 Integral por partes: Damage Formula: a.atk * 4 - b.def * 2
+Skill 130 Sucesión de Fuego: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 132 Violación: Damage Formula: a.atk * 4 - b.def * 2
+Skill 133 Ruby on Rails: Damage Formula: 100 + a.mat * 2 - b.mdf * 2
+Troop 61 Ifrit  Page 1 Line 1:  - Script call: weather(3, 6, "Rain_01B")
+Common Event 1 Elegir jugador Line 3:  - Script call: disable_choice(1,"$game_switches[29]")
+Common Event 1 Elegir jugador Line 4:  - Script call: disable_choice(2,"$game_switches[39]")
+Common Event 1 Elegir jugador Line 5:  - Script call: disable_choice(3,"$game_switches[65]")
+Common Event 2 Mientras en la ETSIIT Line 24:  - Script call: $game_party.clear_missions()
+Map 1 ETSIIT - Event 12 EV012 (5,6) - Page 1 Line 9:  - Script call: $game_party.add_mis(2)
+Map 1 ETSIIT - Event 18 EV018 (20,18) - Page 1 Line 198:  - Script call: $game_party.comp_mis(10)
+Map 1 ETSIIT - Event 18 EV018 (20,18) - Page 1 Line 199:  - Script call: $game_party.add_mis(11)
+Map 3 Bosque - Event 7 EV007 (12,72) - Page 1 Line 21:  - Script call: $game_party.add_mis(6)
+Map 4 Cafeteria - Event 12 EV012 (21,4) - Page 1 Line 114:  - Script call: $game_party.comp_mis(2)
+Map 4 Cafeteria - Event 12 EV012 (21,4) - Page 1 Line 115:  - Script call: $game_party.add_mis(3)
+Map 5 Entrada - Event 61 Juanfran (11,12) - Page 1 Line 59:  - Script call: $game_party.add_mis(4)
+Map 8 Salón de Actos - Event 136 Mantas (16,7) - Page 1 Line 303:  - Script call: $game_party.comp_mis(4)
+Map 8 Salón de Actos - Event 143 EV143 (27,26) - Page 1 Line 87:  - Script call: $game_party.add_comp_obj(9, 1)
+Map 8 Salón de Actos - Event 143 EV143 (27,26) - Page 1 Line 88:  - Script call: $game_party.comp_mis(9)
+Map 8 Salón de Actos - Event 143 EV143 (27,26) - Page 1 Line 89:  - Script call: $game_party.add_mis(10)
+Map 9 Biblioteca - Event 21 Juanfran (54,11) - Page 1 Line 96:  - Script call: $game_party.comp_mis(3)
+Map 9 Biblioteca - Event 25 EV025 (15,13) - Page 1 Line 13:  - Script call: $game_party.add_comp_obj(11, 0)
+Map 9 Biblioteca - Event 25 EV025 (15,13) - Page 1 Line 14:  - Script call: $game_party.add_obj(11, 1)
+Map 12 Aula - Event 18 EV018 (10,5) - Page 1 Line 36:  - Script call: $game_party.clear_missions()
+Map 12 Aula - Event 18 EV018 (10,5) - Page 1 Line 37:  - Script call: $game_party.add_mis(9)
+Map 15 Sótano Secreto - Event 1 EV001 (19,88) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 2 EV002 (10,93) - Page 1 Line 18:  - Script call: $game_party.add_mis(18)
+Map 15 Sótano Secreto - Event 3 EV003 (25,88) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 4 EV004 (30,92) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 5 EV005 (35,88) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 6 EV006 (41,90) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 7 EV007 (37,92) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 8 EV008 (41,77) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 9 EV009 (37,74) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 10 EV010 (27,76) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 11 EV011 (25,78) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 12 EV012 (29,78) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 13 EV013 (18,73) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 14 EV014 (12,73) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 15 EV015 (17,78) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 16 EV016 (11,77) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 17 EV017 (14,56) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 18 EV018 (9,54) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 19 EV019 (26,64) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 20 EV020 (25,60) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 21 EV021 (26,54) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 22 EV022 (31,55) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 24 EV024 (40,39) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 25 EV025 (37,41) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 26 EV026 (29,38) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 27 EV027 (29,43) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 28 EV028 (16,40) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 29 EV029 (18,40) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 30 EV030 (11,25) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 31 EV031 (18,29) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 32 EV032 (17,27) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 33 EV033 (13,14) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 34 EV034 (16,8) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 35 EV035 (11,8) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 36 EV036 (28,11) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 37 EV037 (24,14) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 38 EV038 (27,14) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 39 EV039 (38,23) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 15 Sótano Secreto - Event 40 EV040 (40,27) - Page 1 Line 1:  - Conditional Branch script call: svision?(3)
+Map 16 Ciudad Scratch - Event 5 Entrenador (24,55) - Page 1 Line 150:  - Script call: $game_party.comp_mis(5)
+Map 16 Ciudad Scratch - Event 7 EV007 (23,18) - Page 1 Line 41:  - Script call: $game_party.add_mis(5)
+Map 16 Ciudad Scratch - Event 28 EV028 (20,22) - Page 1 Line 125:  - Script call: $game_party.clear_missions()
+Map 16 Ciudad Scratch - Event 29 EV029 (21,22) - Page 1 Line 125:  - Script call: $game_party.clear_missions()
+Map 16 Ciudad Scratch - Event 30 EV030 (22,22) - Page 1 Line 125:  - Script call: $game_party.clear_missions()
+Map 16 Ciudad Scratch - Event 31 EV031 (23,22) - Page 1 Line 125:  - Script call: $game_party.clear_missions()
+Map 16 Ciudad Scratch - Event 32 EV032 (24,22) - Page 1 Line 125:  - Script call: $game_party.clear_missions()
+Map 23 Programalia - Event 14 Escena1 (59,50) - Page 1 Line 18:  - Script call: $game_party.add_mis(16)
+Map 23 Programalia - Event 20 EV020 (7,73) - Page 1 Line 1:  - Conditional Branch script call: scircle?(15)
+Map 24 Pueblo Java - Event 14 Anciano (12,18) - Page 1 Line 73:  - Script call: $game_party.add_mis(7)
+Map 24 Pueblo Java - Event 16 EV016 (39,29) - Page 1 Line 9:  - Script call: weather_stop
+Map 24 Pueblo Java - Event 16 EV016 (39,29) - Page 1 Line 13:  - Script call: weather(1, 5, "Fog_01A")
+Map 25 Posada: 1F - Event 3 EV003 (6,8) - Page 1 Line 15:  - Script call: $game_party.comp_mis(6)
+Map 30 Casa del Alcalde: 1F - Event 3 EV003 (15,14) - Page 1 Line 51:  - Script call: $game_party.add_comp_obj(7, 1)
+Map 30 Casa del Alcalde: 1F - Event 3 EV003 (15,14) - Page 1 Line 52:  - Script call: $game_party.comp_mis(7)
+Map 30 Casa del Alcalde: 1F - Event 3 EV003 (15,14) - Page 1 Line 53:  - Script call: $game_party.add_mis(8)
+Map 33 Montaña - Event 7 EV007 (37,0) - Page 1 Line 4:  - Script call: weather(1, 5, "Fog_01A")
+Map 33 Montaña - Event 8 EV008 (36,0) - Page 1 Line 4:  - Script call: weather(1, 5, "Fog_01A")
+Map 33 Montaña - Event 9 EV009 (38,0) - Page 1 Line 4:  - Script call: weather(1, 5, "Fog_01A")
+Map 34 Cima - Event 1 EV001 (2,15) - Page 1 Line 3:  - Script call: weather_stop
+Map 34 Cima - Event 2 EV002 (3,15) - Page 1 Line 3:  - Script call: weather_stop
+Map 34 Cima - Event 3 EV003 (4,15) - Page 1 Line 3:  - Script call: weather_stop
+Map 34 Cima - Event 4 EV004 (56,6) - Page 1 Line 11:  - Script call: weather_stop
+Map 34 Cima - Event 5 EV005 (58,7) - Page 1 Line 11:  - Script call: weather_stop
+Map 35 Cueva de Extremera - Event 1 Extremera (8,7) - Page 1 Line 75:  - Script call: $game_party.add_obj(7, 1)
+Map 35 Cueva de Extremera - Event 1 Extremera (8,7) - Page 1 Line 76:  - Script call: $game_party.add_comp_obj(7, 0)
+Map 35 Cueva de Extremera - Event 2 EV002 (6,29) - Page 1 Line 3:  - Script call: weather(1, 5, "Fog_01A")
+Map 35 Cueva de Extremera - Event 3 EV003 (7,29) - Page 1 Line 3:  - Script call: weather(1, 5, "Fog_01A")
+Map 35 Cueva de Extremera - Event 4 EV004 (8,29) - Page 1 Line 3:  - Script call: weather(1, 5, "Fog_01A")
+Map 36 Despachos - Event 3 EV003 (19,4) - Page 1 Line 13:  - Script call: $game_party.add_obj(9, 1)
+Map 36 Despachos - Event 3 EV003 (19,4) - Page 1 Line 14:  - Script call: $game_party.add_comp_obj(9, 0)
+Map 38 Despacho de JJ - Event 2 EV002 (12,5) - Page 1 Line 76:  - Script call: $game_party.clear_missions()
+Map 38 Despacho de JJ - Event 3 EV003 (4,5) - Page 1 Line 45:  - Script call: $game_party.add_mis(17)
+Map 39 Desierto - Event 6 EV006 (13,111) - Page 1 Line 55:  - Script call: $game_party.add_mis(12)
+Map 45 Bar - Event 7 Jacinta (6,8) - Page 1 Line 80:  - Script call: $game_party.add_mis(14)
+Map 45 Bar - Event 7 Jacinta (6,8) - Page 1 Line 81:  - Script call: $game_party.comp_mis(13)
+Map 51 Entrada - Event 1 EV001 (10,6) - Page 1 Line 151:  - Script call: $game_party.add_mis(13)
+Map 51 Entrada - Event 1 EV001 (10,6) - Page 1 Line 152:  - Script call: $game_party.comp_mis(12)
+Map 52 Pueblo PHP Devastado - Event 19 Controlador (20,21) - Page 1 Line 28:  - Script call: $game_party.comp_mis(15)
+Map 52 Pueblo PHP Devastado - Event 59 EV059 (25,36) - Page 1 Line 26:  - Script call: $game_party.add_mis(15)
+Map 52 Pueblo PHP Devastado - Event 59 EV059 (25,36) - Page 1 Line 27:  - Script call: $game_party.comp_mis(14)
+Map 53 Entrada Devastada - Event 12 JJ (10,8) - Page 1 Line 57:  - Script call: weather_stop
+Map 54 Calabozo - Event 3 EV003 (8,7) - Page 1 Line 46:  - Script call: $game_party.comp_mis(17)
+Map 55 Sala de reuniones - Event 3 EV003 (1,18) - Page 1 Line 4:  - Script call: $game_party.clear_missions()
+Map 57 Playa - Event 4 EV004 (8,8) - Page 1 Line 35:  - Script call: $game_party.add_mis(19)
+Map 61 Puerto - Event 10 EV010 (12,40) - Page 1 Line 55:  - Script call: $game_party.comp_mis(20)
+Map 61 Puerto - Event 10 EV010 (12,40) - Page 1 Line 56:  - Script call: $game_party.add_mis(21)
+Map 63 Mansión - Event 7 EV007 (15,27) - Page 1 Line 65:  - Script call: $game_party.comp_mis(19)
+Map 63 Mansión - Event 7 EV007 (15,27) - Page 1 Line 66:  - Script call: $game_party.add_mis(20)
+Map 74 Puerto SQL - Event 36 EV036 (15,31) - Page 1 Line 43:  - Script call: $game_party.add_comp_obj(21,0)
+Map 74 Puerto SQL - Event 36 EV036 (15,31) - Page 1 Line 44:  - Script call: $game_party.add_obj(21,1)
