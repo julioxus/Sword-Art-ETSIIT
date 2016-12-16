@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"battlerName":"julioxus_battler","characterIndex":0,"characterName":"julioxus","classId":11,"equips":[49,0,0,1,0],"faceIndex":0,"faceName":"julioxus","traits":[],"initialLevel":1,"maxLevel":99,"name":"julioxus","nickname":"El brujo friki","note":"<win quotes>\n¡A fregaaaar!\n</win quotes>\n<level quotes>\nMi nivel de brujería aumenta.\n</level quotes>\n<drops quotes>\n¡Más broza pa la saca!\n</drops quotes>","profile":"Maestro de brujería y la magia negra."},
-{"id":2,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":9,"equips":[49,0,2,3,4],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marsha","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"hugo","characterIndex":0,"characterName":"hugo","classId":14,"equips":[55,0,0,0,0],"faceIndex":0,"faceName":"hugo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Hugo","nickname":"La persona horrible","note":"","profile":"Una persona horrible que... jiijiiji"},
 {"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
