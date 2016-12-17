@@ -12691,7 +12691,7 @@ Map Data/Map055.rvdata2 ()
       {"code":101,"indent":0,"parameters":["fergunet",0,0,2]}
       {"code":401,"indent":0,"parameters":["\\n<Fergunet>He estado apuntando las pruebas"]}
       {"code":401,"indent":0,"parameters":["realizadas como me pediste, JJ."]}
-      {"code":101,"indent":0,"parameters":["JJ_real",0,0,2]}
+      {"code":101,"indent":0,"parameters":["jj_real",0,0,2]}
       {"code":401,"indent":0,"parameters":["\\n<JJ>Bien. ¿Qué tal sigue el experimento?"]}
       {"code":101,"indent":0,"parameters":["fergunet",0,0,2]}
       {"code":401,"indent":0,"parameters":["\\n<Fergunet>Estupendo. Todos los indicadores parecen"]}
@@ -12711,32 +12711,32 @@ Map Data/Map055.rvdata2 ()
       {"code":101,"indent":0,"parameters":["fergunet",0,0,2]}
       {"code":401,"indent":0,"parameters":["\\n<Fergunet>Son unos ilusos, nadie puede escapar de"]}
       {"code":401,"indent":0,"parameters":["Programalia."]}
-      {"code":101,"indent":0,"parameters":["JJ_real",0,0,2]}
+      {"code":101,"indent":0,"parameters":["jj_real",0,0,2]}
       {"code":401,"indent":0,"parameters":["\\n<JJ>Era algo que se podía esperar, pero si"]}
       {"code":401,"indent":0,"parameters":["todo va dentro de lo normal no hay de qué"]}
       {"code":401,"indent":0,"parameters":["preocuparse."]}
-      {"code":101,"indent":0,"parameters":["JJ_real",0,0,2]}
+      {"code":101,"indent":0,"parameters":["jj_real",0,0,2]}
       {"code":401,"indent":0,"parameters":["\\n<JJ>¿Qué tal andan las cosas por ahí fuera?"]}
       {"code":101,"indent":0,"parameters":["fergunet",0,0,2]}
       {"code":401,"indent":0,"parameters":["\\n<Fergunet>La policía sigue investigando, pero de"]}
       {"code":401,"indent":0,"parameters":["momento no tienen pruebas contra nosotros."]}
-      {"code":101,"indent":0,"parameters":["JJ_real",0,0,2]}
+      {"code":101,"indent":0,"parameters":["jj_real",0,0,2]}
       {"code":401,"indent":0,"parameters":["\\n<JJ>Todo está saliendo según lo planeado."]}
       {"code":401,"indent":0,"parameters":["De momento todo parecerá un accidente,"]}
       {"code":401,"indent":0,"parameters":["un simple fallo de programación."]}
-      {"code":101,"indent":0,"parameters":["JJ_real",0,0,2]}
+      {"code":101,"indent":0,"parameters":["jj_real",0,0,2]}
       {"code":401,"indent":0,"parameters":["\\n<JJ>Lo estás haciendo muy bien, mi joven"]}
       {"code":401,"indent":0,"parameters":["becario. Pronto el único mundo que"]}
       {"code":401,"indent":0,"parameters":["existirá será Programalia, un mundo de"]}
       {"code":401,"indent":0,"parameters":["software libre,"]}
-      {"code":101,"indent":0,"parameters":["JJ_real",0,0,2]}
+      {"code":101,"indent":0,"parameters":["jj_real",0,0,2]}
       {"code":401,"indent":0,"parameters":["\\n<JJ>y nosotros seremos sus dioses."]}
-      {"code":101,"indent":0,"parameters":["JJ_real",0,0,2]}
+      {"code":101,"indent":0,"parameters":["jj_real",0,0,2]}
       {"code":401,"indent":0,"parameters":["\\n<JJ>Yo tengo que irme a un congreso en"]}
       {"code":401,"indent":0,"parameters":["Copenhague. Voy a presentar el proyecto"]}
       {"code":401,"indent":0,"parameters":["ahí y repetir la misma operación que"]}
       {"code":401,"indent":0,"parameters":["hicimos aquí."]}
-      {"code":101,"indent":0,"parameters":["JJ_real",0,0,2]}
+      {"code":101,"indent":0,"parameters":["jj_real",0,0,2]}
       {"code":401,"indent":0,"parameters":["\\n<JJ>La semana que viene será en Viena,"]}
       {"code":401,"indent":0,"parameters":["y así hasta que propaguemos esto"]}
       {"code":401,"indent":0,"parameters":["por todo el mundo entero."]}
