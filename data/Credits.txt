@@ -1,0 +1,51 @@
+﻿<block:-1,-0.59,200,200,600,center,CrossedSwords2>
+SWORD ART ESTIIT
+
+\c[2]Historia original
+Julio Martínez Martínez-Checa
+
+\c[2]Aportaciones al guión
+Juan Francisco Rodriguez Vílchez
+Alejandro Salmerón Molina
+Hans Manuel Grenner Noguerón
+Óscar Sanchez Martínez
+Paula Blanco Moya
+Carlos Baena Ariza
+
+\c[2]Scripters de plugins
+Yanfly Engine
+Himeworks
+Gameus
+Moghunter
+Terrax
+SumRndmDde
+Tor Damian
+TheUnproPro
+Galv
+
+\c[2]Programador principal
+Julio Martínez Martínez-Checa
+
+\c[2]Diseño de mapas
+Julio Martínez Martínez-Checa
+RPG Maker MV
+
+\c[2]Diseño de enemigos
+Julio Martínez Martínez-Checa
+RPG Maker MV
+
+\c[2]Diseño artístico
+Paula Blanco Moya
+RPG Maker MV
+
+\c[2]Música
+M-art (http://mart.kitunebi.com)
+RPG Maker MV
+
+\c[2]Agradecimientos
+A todos los profesores de la ETSIIT
+Al equipo de CODA Masters
+A la gente que ha aportado feedback
+
+GRACIAS POR JUGAR
+</block>
