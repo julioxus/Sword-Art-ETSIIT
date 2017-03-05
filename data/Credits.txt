@@ -14,13 +14,11 @@ Carlos Baena Ariza
 
 \c[2]Scripters de plugins
 Yanfly Engine
-Himeworks
 Gameus
 Moghunter
 Terrax
 SumRndmDde
 Tor Damian
-TheUnproPro
 Galv
 
 \c[2]Programador principal
@@ -36,6 +34,7 @@ RPG Maker MV
 
 \c[2]Diseño artístico
 Paula Blanco Moya
+ShadowHawkDragon
 RPG Maker MV
 
 \c[2]Música
