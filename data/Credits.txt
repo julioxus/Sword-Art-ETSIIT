@@ -1,4 +1,4 @@
-﻿<block:-1,-0.59,200,200,600,center,CrossedSwords2>
+﻿<block:-1,-0.59,200,200,600,center,crossedswords2>
 SWORD ART ESTIIT
 
 \c[2]Historia original
