@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"ETSIIT","order":1,"parentId":0,"scrollX":910.6666666666666,"scrollY":521.3333333333334},
+{"id":1,"expanded":false,"name":"ETSIIT","order":1,"parentId":0,"scrollX":910.6666666666666,"scrollY":521.3333333333334},
 {"id":2,"expanded":false,"name":"Posada: 1F","order":26,"parentId":16,"scrollX":709.3333333333334,"scrollY":505.3333333333333},
 {"id":3,"expanded":false,"name":"Bosque Perdido","order":43,"parentId":23,"scrollX":762.6666666666666,"scrollY":3365.3333333333335},
 {"id":4,"expanded":false,"name":"Cafeteria","order":2,"parentId":1,"scrollX":970.6666666666666,"scrollY":396},
